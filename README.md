@@ -7,4 +7,4 @@ Our Twitter clone features robust user authentication powered by Supabase, ensur
 Utilizing Supabase's real-time capabilities, we've implemented instant updates for tweets, notifications, and user interactions, creating a dynamic and engaging user experience.
 
 ### Tweeting and Interactions: 
-Users can post tweets, like, retweet, and comment on posts, fostering a sense of community and interaction.
+Users can post tweets, like fostering a sense of community and interaction.
